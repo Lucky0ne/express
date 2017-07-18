@@ -1,0 +1,4 @@
+{"table": "agnlist",
+"columns": "Rn,agnabbr,agnname,agntype",
+"selectable": "agnabbr,agnname",
+"divide":"agntype"}

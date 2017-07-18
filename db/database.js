@@ -332,8 +332,8 @@ function simpleLogin(params){
             user          : "parus",
             password      : "pp",
             connectString : "morgan.parus.ua:1523/MVSOBL"
-        })
-
+        }).then(console.log('Logged')
+        );
     })
 }
 module.exports.simpleLogin=simpleLogin;
